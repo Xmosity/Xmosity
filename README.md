@@ -1,1 +1,1 @@
-hi. i program in python c html css js an sql.
+hi. i do stuff like cybersecurity & networking. i can program in python, c, c++, html, css, and js.
